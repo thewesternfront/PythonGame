@@ -13,7 +13,7 @@ NUM_LEVELS = 3
 # Tile glyphs
 WALL  = '#'
 FLOOR = '.'
-STAIR = '>'
+STAIR = '^'
 
 # Enemy definitions: (glyph, name, hp, damage, xp_reward)
 ENEMY_TYPES = [
